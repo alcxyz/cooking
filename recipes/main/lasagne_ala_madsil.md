@@ -20,6 +20,7 @@ A homemade lasagna recipe, packed with filling and cheese, perfect for those who
 *   3 packages (total 240-300g / ~8.5-10.5 oz) grated Parmesan cheese (ideally Parmigiano Reggiano)
 *   Fresh chopped herbs (parsley and chives) to taste (`cheiro-verde`)
 *   500ml (~2 cups) hot water
+*   1 carton (approx. 200-300ml / ~1 cup) cooking cream (like Norwegian 'matfløte')
 *   Salt to taste
 
 ## Preparation
@@ -29,7 +30,7 @@ A homemade lasagna recipe, packed with filling and cheese, perfect for those who
     *   Add the garlic paste (or minced garlic with salt), paprika, and black pepper. Sauté briefly (be careful not to burn the garlic/paprika).
     *   Add the ground beef and the minced/stewing beef. Brown the meat well, breaking it up with a spoon. Season with salt to taste.
     *   Add the chopped onion, bell pepper, and tomatoes. Cook, stirring occasionally, until the vegetables soften.
-    *   Stir in the store-bought Bolognese sauce (red Dolmio), a portion of the grated Parmesan cheese (reserve most for layering and topping), and the hot water.
+    *   Stir in the store-bought Bolognese sauce (red Dolmio), a portion of the grated Parmesan cheese (reserve most for layering and topping), the hot water, **and the cooking cream**.
     *   Mix well, lower the heat, and simmer for about 3-5 minutes, stirring to prevent sticking. Adjust salt if needed. Stir in the fresh chopped herbs at the end.
 
 2.  **Assemble the Lasagna:**
@@ -54,6 +55,7 @@ A homemade lasagna recipe, packed with filling and cheese, perfect for those who
 *   **Pasta Type:** The original recipe suggests whole wheat pasta, but you can use your preferred type (no-boil, fresh, etc.). Follow package directions if necessary.
 *   **Cheeses:** The cheese quantities are generous (over 1kg / 2.2 lbs total). Adjust to your taste if you prefer less cheese. The "shredded cheese" likely refers to mozzarella or a similar melting cheese.
 *   **Store-Bought Sauces:** The recipe uses Dolmio brand sauces as a base. Feel free to substitute with other brands or homemade sauces.
+*   **Cooking Cream:** The addition of cooking cream (`matfløte`) makes the meat sauce richer. If you can't find specific "cooking cream", you could substitute with heavy cream, but be mindful it might behave slightly differently when heated for extended periods.
 *   **Yield:** This recipe makes a large lasagna, suitable for many people or for freezing.
 *   **Freezing:** You can freeze the baked (and cooled) lasagna, either cut into individual portions or the whole dish. Wrap well to prevent freezer burn. To reheat, thaw in the refrigerator and heat in the oven or microwave.
 *   **Adjustments:** Calculate the number of layers based on the size and depth of your baking dish.

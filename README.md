@@ -4,7 +4,7 @@ A collection of my favorite recipes.
 
 ## Table of Contents
 
-*   [Main Courses](./recipes/mains/)
+*   [Main Courses](./recipes/main/)
 *   [Desserts](./recipes/desserts/)
 *   [Appetizers](./recipes/appetizers/)
 *   [Side Dishes](./recipes/sides/)
